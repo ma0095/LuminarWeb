@@ -1,0 +1,21 @@
+.row{
+    margin-top: 200px;
+    padding: 80px;
+    text-align: center;
+}
+h3{
+    color: blue;
+}
+.row g-0{
+    padding: 50px;
+}
+.foot{
+    background-color: lightgrey;
+    height: 75px;
+    text-align: center;
+    color: blue;
+
+}
+
+
+
